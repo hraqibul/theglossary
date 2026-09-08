@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Glossary
 
 A static cosmetics storefront for GitHub Pages. The site uses vanilla HTML, CSS and JavaScript, loads products from the Products tab in Google Sheets through the same Google Apps Script Web App that receives orders, persists the bag in `localStorage`, and sends orders to Google Apps Script.
@@ -48,3 +49,6 @@ The browser sends JSON as `text/plain;charset=utf-8`. This avoids an OPTIONS pre
 ## Order handling
 
 bKash is manual verification only. The sheet receives `Pending Verification` for every order. Confirm the transaction ID and payment in bKash before changing the status. COD orders send `bkashTrxId: null` and do not include any bKash form field in the submitted payload.
+=======
+# theglossary
+>>>>>>> 60978c8645f65c206cf2413d0e32d6a199617ce8
