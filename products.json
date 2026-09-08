@@ -1,0 +1,90 @@
+[
+  {
+    "id": "velvet-matte-lip",
+    "name": "Velvet Matte Lip",
+    "category": "makeup",
+    "price": 1850,
+    "shortDescription": "A soft-focus, weightless lip colour in rosewood.",
+    "description": "A modern matte with the comfort of a balm. Velvet Matte Lip melts across the lips with buildable pigment and a softly blurred finish that wears beautifully from afternoon tea to after dark.",
+    "shade": "Rosewood 04",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1631214524020-7e18db9d3b79?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "silk-skin-tint",
+    "name": "Silk Skin Tint",
+    "category": "makeup",
+    "price": 2450,
+    "shortDescription": "Sheer, breathable coverage with a lit-from-within finish.",
+    "description": "Your skin, refined. This breathable tint smooths the look of tone and texture while leaving the natural dimension of your skin visible. Infused with squalane for a fresh, satin finish.",
+    "shade": "Medium 3N",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "radiance-ritual-oil",
+    "name": "Radiance Ritual Oil",
+    "category": "skincare",
+    "price": 2900,
+    "shortDescription": "A botanical facial oil for rested, luminous skin.",
+    "description": "A concentrated evening ritual of rosehip, camellia and marula oils. Press two drops into clean skin to seal in hydration and wake to a complexion that feels deeply replenished.",
+    "shade": "30 ml",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "cloud-cleanse",
+    "name": "Cloud Cleanse",
+    "category": "skincare",
+    "price": 1650,
+    "shortDescription": "A cushiony cream cleanser for a calm, clean start.",
+    "description": "A generous cream cleanser that lifts the day away without taking your comfort with it. Oat, calendula and glycerin leave skin soft, balanced and ready for the next step.",
+    "shade": "120 ml",
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "silk-press-mist",
+    "name": "Silk Press Mist",
+    "category": "haircare",
+    "price": 1950,
+    "shortDescription": "Weightless shine and heat protection for polished lengths.",
+    "description": "A fine, non-sticky mist that protects against styling heat while smoothing flyaways and adding glassy shine. Finished with a quiet citrus and cedar accord.",
+    "shade": "100 ml",
+    "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1522338242992-e1a54906a8da?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1527799820374-dcf8c3d6f0f7?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "afterglow-body-cream",
+    "name": "Afterglow Body Cream",
+    "category": "body care",
+    "price": 2200,
+    "shortDescription": "A rich, fast-absorbing cream with a soft amber veil.",
+    "description": "A plush body cream made for the final, unhurried step. Shea butter and niacinamide comfort dry skin while a veil of amber, iris and sandalwood stays close to the skin.",
+    "shade": "250 ml",
+    "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "atelier-pouch",
+    "name": "Atelier Pouch",
+    "category": "accessories",
+    "price": 1250,
+    "shortDescription": "A structured cotton pouch for the essentials you carry.",
+    "description": "Cut from sturdy cotton canvas and lined in wipe-clean satin, the Atelier Pouch keeps the small things considered. A polished brass zip and generous shape make it an everyday essential.",
+    "shade": "Natural canvas",
+    "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85"]
+  },
+  {
+    "id": "soft-focus-blush",
+    "name": "Soft Focus Blush",
+    "category": "makeup",
+    "price": 1750,
+    "shortDescription": "A sheer cream blush for a just-pinched flush.",
+    "description": "The fingertip-friendly cream blush that belongs in every morning routine. It blends in seconds and leaves cheeks with a believable, softly radiant flush.",
+    "shade": "Petal 02",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+    "gallery": ["https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85", "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=900&q=85"]
+  }
+]
